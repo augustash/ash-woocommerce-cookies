@@ -2,7 +2,7 @@
 /**
  * Plugin Name: ASH WooCommerce Cookies
  * Description: Fixes WooCommerce cookie handling for Pantheon's Varnish cache. Prevents woocommerce_items_in_cart and woocommerce_cart_hash server-side cookies (JS sets them client-only). Renames the session cookie with STYXKEY prefix for cache-varying behavior.
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: August Ash
  */
 
